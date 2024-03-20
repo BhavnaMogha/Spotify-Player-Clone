@@ -2,3 +2,4 @@
 
 ![Screenshot 2](https://github.com/BhavnaMogha/Spotify-Player-Clone/assets/82330563/73956e8a-e1ce-430a-bb81-87883b2ad61f)
 
+Live Link : https://bhavnamogha.github.io/Spotify-Player-Clone/
